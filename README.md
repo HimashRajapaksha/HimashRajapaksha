@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HimashRajapaksha
+- 👋 Hi, I’m @H.B.Rajapaksha
 - 👀 I’m interested in software development and web design 
 - 🌱 I’m currently learning B.Sc.(Hons) Information Technology (SLIIT)
 - 📫 How to reach me rajapakshahimash@gmail.com 
