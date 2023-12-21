@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Himash Rajapaksha</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka </h3>
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himashrajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="himashrajapaksha" /> </p>
@@ -10,6 +16,14 @@
 - 💬 Ask me about **Java and Web Designing**
 
 - 📫 How to reach me **rajapakshahimash@gmail.com**
+
+  ## By the way here are some of my statistics 🚀
+![Himash's github stats](https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
+
+🌱 I’m currently learning android in dicoding.com with kotlin
+
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
