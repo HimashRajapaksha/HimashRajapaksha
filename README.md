@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himash Rajapaksha</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka </h3>
+<h3 align="center">A passionate Software developer from Sri Lanka </h3>
 
 ---
 
