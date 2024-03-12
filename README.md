@@ -10,6 +10,8 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
+##About me
+
 - 🌱 I’m currently undergraduate **at SLIIT**
 
 - 💬 Ask me about **Java and Web or Mobile development**
