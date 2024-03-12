@@ -1,4 +1,4 @@
-<picture><center><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></center></picture>
+<picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <h1 align="center">Hi 👋, I'm Himash Rajapaksha</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka </h3>
 
