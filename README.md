@@ -12,7 +12,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
-- 🌱 I’m currently ab undergraduate **at SLIIT**
+- 🌱 I’m currently an undergraduate **at SLIIT**
 
 - 💬 Ask me about **Java and Web or Mobile development**
 
@@ -25,7 +25,7 @@
 ![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
   
 
-🌱 I’m currently learning android in dicoding.com with kotlin
+🌱 I’m currently learning android with kotlin
 
 ---
 <h3 align="left">Connect with me:</h3>
