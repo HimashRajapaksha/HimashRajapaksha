@@ -32,7 +32,7 @@
 ![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
   
 
-🌱 I’m currently learning android with kotlin
+🌱 I’m currently kotlin and firebase
 
 ---
 
