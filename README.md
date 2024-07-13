@@ -21,7 +21,7 @@
 ---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/himash-rajapaksha-58a023253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himash-rajapaksha-58a023253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himash-rajapaksha-58a023253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himash-rajapaksha-58a023253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_himash_rajapaksha_/?igsh=MW96bDVydHhmcGR2MQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/_himash_rajapaksha_/?utm_source=qr&igsh=mw96bdvydhhmcgr2mq%3d%3d](https://www.instagram.com/himash_rajapaksha?igsh=MW96bDVydHhmcGR2MQ==)" height="30" width="40" /></a>
 </p>
 
