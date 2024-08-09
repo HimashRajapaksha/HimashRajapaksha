@@ -24,12 +24,12 @@
 <a href="https://www.linkedin.com/in/himash-rajapaksha-58a023253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himash-rajapaksha-58a023253" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_himash_rajapaksha_/?igsh=MW96bDVydHhmcGR2MQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/_himash_rajapaksha_/?utm_source=qr&igsh=mw96bdvydhhmcgr2mq%3d%3d](https://www.instagram.com/himash_rajapaksha?igsh=MW96bDVydHhmcGR2MQ==)" height="30" width="40" /></a>
 </p>
-<!-- username=Scar1109 -->
+
 ---
 ## By the way here are some of my statistics 🚀
 ![Himash's github stats](https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
-![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
+![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Scar1109&theme=tokyonight&layout=compact)
   
 🌱 I’m currently learning kotlin and firebase
 
