@@ -31,7 +31,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
 ![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
   
-
 🌱 I’m currently learning kotlin and firebase
 
 ---
