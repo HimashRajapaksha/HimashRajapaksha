@@ -28,7 +28,7 @@
 ---
 ## By the way here are some of my statistics 🚀
 ![Himash's github stats](https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashRajapaksha&theme=tokyonight" alt="mystreak"/>
 ![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
   
 🌱 I’m currently learning kotlin and firebase
