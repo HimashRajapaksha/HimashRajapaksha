@@ -103,7 +103,7 @@
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <!-- <a href="https://www.pgadmin.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/pgadmin.svg" alt="pgadmin" width="40" height="40"/>
