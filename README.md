@@ -52,18 +52,19 @@
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"            
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/TailwindCSS-Light.svg" alt="tailwind" width="40"            
     height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -91,32 +92,31 @@
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NextJS-Light.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Flutter-Light.svg" alt="flutter" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/MySQL-Light.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-  </a>
- 
+  </a> 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/PostgreSQL-Light.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Figma-Light.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
