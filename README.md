@@ -88,7 +88,7 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" alt="nextjs" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
