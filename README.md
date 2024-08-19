@@ -106,6 +106,15 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
   </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJs" width="40" height="40"/>
+  </a>
+   <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/>
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
   </a>
