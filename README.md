@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=himashrajapaksha&label=Profile%20views&color=0e75b6&style=flat" alt="himashrajapaksha" /> </p>
 
 
-## About me
+## About me <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -19,7 +19,7 @@
 - 📫 How to reach me **rajapakshahimash@gmail.com**
 
 ---
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:  <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/himash-rajapaksha-58a023253" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himash-rajapaksha-58a023253" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_himash_rajapaksha_/?igsh=MW96bDVydHhmcGR2MQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/_himash_rajapaksha_/?utm_source=qr&igsh=mw96bdvydhhmcgr2mq%3d%3d](https://www.instagram.com/himash_rajapaksha?igsh=MW96bDVydHhmcGR2MQ==)" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:  <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture></h3>
 <p align="left">
   <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/AndroidStudio-Dark.svg" alt="androidstudio" width="40" height="40"/>
