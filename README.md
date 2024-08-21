@@ -26,7 +26,7 @@
 </p>
 
 ---
-## By the way here are some of my statistics 🚀
+## By the way here are some of my statistics <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30" width="40"></picture>
 ![Himash's github stats](https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashRajapaksha&theme=tokyonight" alt="mystreak"/>
 ![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
