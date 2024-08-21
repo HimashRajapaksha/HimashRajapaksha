@@ -39,11 +39,10 @@
 
 </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/AndroidStudio-Dark.svg" alt="mssql" width="40" height="40"/>
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/AndroidStudio-Dark.svg" alt="androidstudio" width="40" height="40"/>
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/>
@@ -51,21 +50,20 @@
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
-  </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
   </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40"            
-    height="40"/> 
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
@@ -94,26 +92,29 @@
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Flutter-Dark.svg" alt="flutter" width="40" height="40"/>
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-  </a> 
+  </a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/ExpressJS-Dark.svg" alt="ExpressJs" width="40" height="40"/>
-  </a>
-   <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/microsoftSQL.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://vercel.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
@@ -125,7 +126,7 @@
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Photoshop.svg" alt="Adobe Photoshop" width="40" height="40"/>
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/>
@@ -136,8 +137,4 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
   </a>
-
 </p>
-
-
-
