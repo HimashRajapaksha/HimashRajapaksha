@@ -30,6 +30,8 @@
 ![Himash's github stats](https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashRajapaksha&theme=tokyonight" alt="mystreak"/>
 ![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HImashRajapaksha&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
   
 🌱 I’m currently learning SpringBoot and .Net
 
