@@ -67,6 +67,9 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
   </a>
+   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/R-Dark.svg" alt="html5" width="40" height="40"/>
+  </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
   </a>
@@ -114,6 +117,9 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/microsoftSQL.svg" alt="mssql" width="40" height="40"/>
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/SQLite.svg" alt="mssql" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/>
