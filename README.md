@@ -87,9 +87,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/ReactiveX-Dark.svg" alt="reactnative" width="40" height="40"/>
-  </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
   </a>
