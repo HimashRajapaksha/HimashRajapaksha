@@ -144,4 +144,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
   </a>
+  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
+  </a>
 </p>
