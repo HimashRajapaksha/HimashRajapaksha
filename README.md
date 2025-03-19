@@ -120,6 +120,12 @@
   <a href="https://vercel.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/>
   </a>
+   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
+  </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
   </a>
@@ -144,4 +150,6 @@
   <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
   </a>
+
+  
 </p>
