@@ -1,155 +1,186 @@
-<p align="center"><picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 90px></picture></p>
-<h1 align="center">Hi 👋, I'm Himash Rajapaksha</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka </h3>
+<div align="center">
+
+<picture>
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="90px"/>
+</picture>
+
+<br/>
+
+<!-- Animated typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Himash+%F0%9F%91%8B;Software+Developer+from+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Full+Stack+%7C+Mobile+%7C+Cloud;Spring+Boot+%7C+FastAPI+%7C+.NET+%7C+React)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HimashRajapaksha&label=Profile%20Views&color=6E40C9&style=flat" alt="profile views" />
+&nbsp;
+<a href="https://www.linkedin.com/in/himashrajapaksha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="https://www.instagram.com/_himash_rajapaksha_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:rajapakshahimash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+
+</div>
 
 ---
 
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/></picture> About Me
 
+<picture>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="220px"/>
+</picture>
 
+```yaml
+name: Himash Rajapaksha
+location: Sri Lanka 🇱🇰
+education: Final Year @ SLIIT
+focus: Software Development
 
-## About me <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture>
+specialties:
+  - Backend (Spring Boot, FastAPI, .NET, NestJS, NodeJS)
+  - Frontend (React, Next.js, Vue.js, Svelte)
+  - Mobile Development (Flutter, Kotlin, Android)
+  - Cloud & DevOps (AWS, Azure, Docker)
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+currently:
+  - 🎓 Completing my final year at SLIIT
+  - 🌱 Expanding skills in cloud & distributed systems
+  - 💡 Open to collaborations
 
+contact: rajapakshahimash@gmail.com
+```
 
-- 🌱 I’m currently final year undergraduate **at SLIIT**
-
-- 💬 Ask me about **Java and Web or Mobile development**
-
-- 📫 How to reach me **rajapakshahimash@gmail.com**
+<br clear="right"/>
 
 ---
-<h3 align="left">Connect with me:  <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture></h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/himashrajapaksha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himash-rajapaksha-58a023253" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_himash_rajapaksha_/?igsh=MW96bDVydHhmcGR2MQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/_himash_rajapaksha_/?utm_source=qr&igsh=mw96bdvydhhmcgr2mq%3d%3d](https://www.instagram.com/himash_rajapaksha?igsh=MW96bDVydHhmcGR2MQ==)" height="30" width="40" /></a>
-</p>
+
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/></picture> Tech Stack
+
+<details open>
+<summary><b>🖥️ Languages</b></summary>
+<br/>
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br/>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br/>
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>☁️ Cloud, DevOps & Tools</b></summary>
+<br/>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+</details>
 
 ---
-## By the way here are some of my statistics <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="30" width="40"></picture>
-![Himash's github stats](https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HimashRajapaksha&theme=tokyonight" alt="mystreak"/>
-![Himash's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact)
 
-  
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" height="28" width="32"/></picture> GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HimashRajapaksha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimashRajapaksha&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimashRajapaksha&theme=tokyonight&layout=compact&hide_border=true&bg_color=0D1117&langs_count=8" />
+
+</div>
 
 ---
 
-</p>
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"/></picture> Connect with Me
 
-<h3 align="left">Languages and Tools:  <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"></picture></h3>
-<p align="left">
-  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/AndroidStudio-Dark.svg" alt="androidstudio" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Arduino.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/CPP.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/TailwindCSS-Dark.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/HTML.svg" alt="html5" width="40" height="40"/>
-  </a>
-   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/R-Dark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Java-Dark.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Kotlin-Dark.svg" alt="kotlin" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Python-Dark.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/React-Dark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NextJS-Dark.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Flutter-Dark.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/NestJS-Dark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/ExpressJS-Dark.svg" alt="expressjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/PostgreSQL-Dark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/microsoftSQL.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/SQLite.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Firebase-Dark.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="40" height="40"/>
-  </a>
-   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Azure-Dark.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Postman.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Illustrator.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/PHP-Dark.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/HimashRajapaksha/git_Icons/blob/main/icons/Docker.svg" alt="docker" width="40" height="40"/>
-  </a>
+<div align="center">
 
-  
-</p>
+<a href="https://www.linkedin.com/in/himashrajapaksha" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Himash%20Rajapaksha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/_himash_rajapaksha_/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-_himash__rajapaksha_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:rajapakshahimash@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-rajapakshahimash%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=100&section=footer"/>
+</picture>
+
+</div>
